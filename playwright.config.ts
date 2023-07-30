@@ -72,7 +72,7 @@ export default defineConfig({
     // {
     //   name: 'Microsoft Edge',
     //   use: { channel: 'msedge' },
-    },
+    // },
     {
       name: 'Google Chrome',
       use: { channel: 'chrome' },
